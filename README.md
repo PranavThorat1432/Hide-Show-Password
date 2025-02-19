@@ -47,7 +47,9 @@ A simple and responsive password visibility toggle using **HTML, CSS, and JavaSc
 
 ## 📸 Screenshots  
 🔹 **Default View (Hidden Password)**  
-![Hidden Password](eye-icons/eye-close.png) *(Add actual screenshot here)*  
+![pass1](https://github.com/user-attachments/assets/59650abe-aead-420c-bed2-fead531b0d62)
+
+![pass2](https://github.com/user-attachments/assets/ef9f6dc2-cda0-4fa8-a0ae-f18c86819b83)
 
 🔹 **Visible Password**  
 ![Visible Password](eye-icons/eye-open.png) *(Add actual screenshot here)*  
