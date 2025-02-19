@@ -13,7 +13,7 @@ A simple and responsive password visibility toggle using **HTML, CSS, and JavaSc
 ---
 
 ### 🚀 Live Demo  
-🔗 [View Project](#) *(Add your live link here)*  
+🔗 [View Project](https://hide-show-password-psi.vercel.app/) 
 
 ---
 
